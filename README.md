@@ -1,4 +1,4 @@
-<img src="dino.gif" alt="drawing" width="800"/>
+<img src="dino.gif" alt="drawing" width="1000"/>
 
 <!-- ![alt text](dino.gif) -->
 
