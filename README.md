@@ -1,4 +1,6 @@
-![alt text](dino.gif)
+<img src="drawing.jpg" alt="drawing" width="800"/>
+
+<!-- ![alt text](dino.gif) -->
 
 <!-- ![alt text](header.png) -->
 
