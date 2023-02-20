@@ -1,9 +1,6 @@
-<div align="center">
-<img src="https://media.tenor.com/X4TyOzg9LVAAAAAC/robert-pattinson-tenet.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">Hello 👋 I'm Abrar Faiaz</div>  
+ 
+#<div align="center">Hello 👋 I'm Abrar Faiaz</div>  
   
 
 - 🔭 I’m currently working on [pokemon-next-app](https://github.com/abrarfaiaz0/pokemon-next-app)  
