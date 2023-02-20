@@ -1,6 +1,6 @@
 
  
-#<div align="center">Hello 👋 I'm Abrar Faiaz</div>  
+# <div align="center">Hello 👋 I'm Abrar Faiaz</div>  
   
 
 - 🔭 I’m currently working on [pokemon-next-app](https://github.com/abrarfaiaz0/pokemon-next-app)  
