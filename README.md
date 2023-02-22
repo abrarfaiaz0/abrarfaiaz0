@@ -3,7 +3,7 @@
 # <div align="center">Hello 👋 I'm Abrar Faiaz</div>  
   
 
-- 🔭 I’m currently working on [pokemon-next-app](https://github.com/abrarfaiaz0/pokemon-next-app)  
+- 🔭 I’m currently working on [weather-app](https://github.com/abrarfaiaz0/weather-app)  
   
 
 - 🌱 I’m currently learning React and Django  
