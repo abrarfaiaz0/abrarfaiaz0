@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React and Django  
 
 
-- 🤍 Check out my blog at [blog.abrarfaiaz.com](https://blog.abrarfaiaz.com)
+- 🤍 Check out my website at [abrarfaiaz.com](https://www.abrarfaiaz.com)
   
 
 - ⚡ I am a Pokemon Nerd and my favourite movie is Grave Encounters  
