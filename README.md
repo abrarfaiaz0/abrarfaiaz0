@@ -3,7 +3,7 @@
 # <div align="center">Hello 👋 I'm Abrar Faiaz</div>  
   
 
-- 🔭 I’m currently working on [spex](https://github.com/abrarfaiaz0/spex)  
+- 🔭 I’m currently working on [yaca](https://github.com/abrarfaiaz0/yaca-frontend)  
   
 
 - 🌱 I’m currently learning React and Django  
